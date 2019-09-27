@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.gyoomi</groupId>
+    <artifactId>Data-Structures</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    <modules>
+        <module>07-Set-and-Map</module>
+        <module>08-Heap-And-Priority-Queue</module>
+        <module>09-Segment-Tree</module>
+        <module>10-Trie</module>
+        <module>11-Union-Find</module>
+        <module>12-AVL-Tree</module>
+        <module>14-Hash-Table</module>
+        <module>13-Red-Black-Tree</module>
+        <module>15-BTree</module>
+        <module>16-B+Tree</module>
+    </modules>
+</project>

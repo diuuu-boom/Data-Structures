@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>Data-Structures</artifactId>
+        <groupId>com.gyoomi</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.gyoomi</groupId>
+    <artifactId>12-AVL-Tree</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>02-Calculating-Balance-Factor</module>
+        <module>03-Checking-Banlance-and-Binary-Search-Property</module>
+        <module>04-Rotation-Operations</module>
+        <module>05-The-Implementation-Left-Rotation-Right-Rotation</module>
+        <module>06-LR-and-RL</module>
+        <module>07-Remove-Elements-In-AVLTree</module>
+        <module>08-Map-and-Set-In-AVL-Tree</module>
+    </modules>
+
+
+</project>
